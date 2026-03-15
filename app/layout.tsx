@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Yaxhkumar Patel | Cybersecurity & Full-Stack Developer',
   description: 'Cybersecurity and Full-Stack Development professional with hands-on experience in vulnerability assessment, penetration testing, and building secure web applications.',
-  generator: 'v0.app',
+  generator: 'yaxhpatel',
   icons: {
     icon: [
       {
